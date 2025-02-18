@@ -44,7 +44,6 @@ The main results are summarized in run.ipynb, where all the explored model are r
 Forecasting S&P500 returns with earnings calls transcripts/
 ├── data/                   # Contains the dataset files (CSV, Parquet, ...) 
 ├── src/                    # Source code for the project
-│   ├── models/             # Machine learning models (e.g., Logistic Regression)
 │   ├── scripts/            # Utility functions for data preprocessing 
 │   └── utils/              # Utility functions for data manipulation, ML models and plotting
 ├── requirements.txt        # List of required libraries and dependencies
