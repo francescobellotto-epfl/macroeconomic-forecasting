@@ -1,0 +1,7 @@
+matplotlib==3.8.0
+numpy==2.0.0
+pandas==2.2.3
+seaborn==0.12.2
+pyarrow==18.1.0
+torch==2.1.0
+transformers==4.35.0
